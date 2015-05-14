@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{ 	margin:0;
 	padding: 0;
 }
@@ -18,4 +19,13 @@ header, nav, section, footer{  background: #eee;
 								text-align: center;
 }
 nav span{ margin:0px 10px 0px 0px;
+=======
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+>>>>>>> b29e7ed08b261953d0582d1c38c5aa1d379b8b58
 }
